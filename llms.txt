@@ -1,0 +1,15 @@
+# US Holiday Calendar
+
+> US federal holidays and selected observances for 2026–2028. Data is UTF-8 CSV; dates are local civil dates. The intended users are developers, workflow engines, and AI agents.
+
+## Dataset
+- [US CSV](https://raw.githubusercontent.com/malkovych/holiday-calendar/main/holidays-us-2026-2028.csv): 78 dated records.
+- [README and field guide](https://github.com/malkovych/holiday-calendar#readme): scheduling semantics and coverage.
+- [World Holiday Calendar](https://github.com/malkovych/world-holiday-calendar): multi-market dataset.
+
+## Usage
+- Match market and recipient time zone separately.
+- targeted requires an activated campaign and matched audience; review requires approval; off is reference-only.
+- Deduplicate by occurrence, campaign, recipient, action, and channel.
+- Verify observed closures with an official local source.
+- [ThruMemory](https://thrumemory.com/): project link.

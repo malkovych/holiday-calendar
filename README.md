@@ -1,5 +1,3 @@
-# holiday-calendar
-Global holiday and observance data for apps, cron jobs, and AI agents.
 # US Holiday Calendar (2026–2028)
 
 Machine-readable US federal holidays, selected observances, and campaign dates for apps, cron jobs, and AI agents.
